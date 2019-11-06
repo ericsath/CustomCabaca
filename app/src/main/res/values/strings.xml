@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cabaca</string>
+    <string name="title_genre">Genre</string>
+    <string name="title_book">Buku</string>
+    <string name="title_writer">Penulis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">x-dreamfactory-api-key</string>
+    <string name="key">25e0bf00ab2fa7f03a9fa57035139e47ccb28c20658f6de907b8011347e369fb</string>
+    <string name="image_url">https://cabaca.id:8443/api/v2/files/</string>
+    <string name="image_key">&amp;api_key=32ded42cfffb77dee86a29f43d36a3641849d4b5904aade9a79e9aa6cd5b5948</string>
+</resources>
